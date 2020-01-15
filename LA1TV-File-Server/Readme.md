@@ -16,3 +16,8 @@ I would recommend looking over the [Jargon](./Jargon.md) file if you need help u
  - [ ] System Specs
  - [ ] Login System
  - [ ] Auto Ingest
+
+# Diagram
+This is a quick diagram of what I hope to achieve with this
+
+![Diagram of new LA1TV Network layout in office](./Network-Diagram.png)
