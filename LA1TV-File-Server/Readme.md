@@ -11,7 +11,7 @@ We are looking at creating a file server to edit off. This will hopefully remove
 I would recommend looking over the [Jargon](./Jargon.md) file if you need help understanding some terminology.
 
 # Things to cover
- - [x] [Operating System](./Operating-Systems.md)
+ - [x] [Operating System](./Operating-System.md)
  - [x] [RAID](./RAID.md)
  - [ ] System Specs
  - [ ] Login System
