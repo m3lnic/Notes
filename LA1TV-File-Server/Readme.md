@@ -1,5 +1,5 @@
 # What is this project?
-We are looking at creating a file server to edit off. This will hopefully remove the load of having drives that fill up in the edit PC's. This problem (drives being full) has caused many problems over recent times. The end goal is:
+We are looking at creating a file server to edit off. This will hopefully remove the load of having drives that fill up in the edit PC's. Additionally, it will allow other people to use the Edit PC's whilst something is being uploaded to LUNA. This problem (drives being full) has caused many problems over recent times. The end goal is:
 - Edit PC drives stay empty ish
 - Scratch disks will stay on Edit PC's
 - Projects can be worked on from any machine
