@@ -1,3 +1,6 @@
+# The Problem
+In creating a file server for LA1TV to video edit from. There are many choices of Operating Systems for creating a form of NAS. The target of this document is to reduce that option to 1 OS. 
+
 # Options
 1. Windows 10
 2. Windows Server 2016
@@ -64,3 +67,6 @@ Pros:
 Cons:
 - Web client ONLY configuration
 - Uni will question the ports and the security of them if the machine is connected to resnet
+
+# Conclusion
+TBC
