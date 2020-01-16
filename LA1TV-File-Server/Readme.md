@@ -13,7 +13,7 @@ I would recommend looking over the [Jargon](./Jargon.md) file if you need help u
 # Things to cover
  - [x] [Operating System](./Operating-System.md)
  - [x] [RAID](./RAID.md)
- - [ ] System Specs
+ - [x] [System Specs](./System-Specs.md)
  - [ ] Login System
  - [ ] Auto Ingest
 
