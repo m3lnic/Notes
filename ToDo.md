@@ -18,6 +18,8 @@
     - [ ] Audio kit
 - [ ] Complete File Store
     - [ ] Move editing to this
+- [ ] Move edit PC's to university domain
+    - [ ] Send Paul mac addresses
 - [ ] Transport equipment from my house to campus
 - [ ] Teach people
     - [ ] Book out a room for weekend
