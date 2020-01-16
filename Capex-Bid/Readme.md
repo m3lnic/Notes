@@ -4,6 +4,7 @@
 ## What are we bidding for?
 ## Equipment we would like
 The equipment that we would like to buy can be comfortably broken down into 4 categories. As much as we would like to be the first university student media streaming in 4k, that is an unrealistic goal. Our goal is to at least reach 1080p 60FPS. These are as follows:
+
 ### Filling in the holes
 This bracket aims to fill in the places where our current equipment is failing and / or missing in some cases.
 
