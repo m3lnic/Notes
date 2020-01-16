@@ -1,5 +1,5 @@
 # LA1TV CapEx bid
-## Who are we?
+## Who are we and what do we do?
 ## Why are we applying for CapEx?
 ## What are we bidding for?
 ## Equipment we would like
