@@ -16,7 +16,7 @@ This bracket aims to fill in the places where our current equipment is failing a
 - Failing computers
     - New graphics machines
     - New encoders
-    > In this bracket, this would be desktops
+        > In this bracket, this would be desktops
 - New tripods
     - Base plates?
     - Spreader bars
@@ -35,6 +35,15 @@ In this bracket we would be aiming to replace a majority of the equipment that w
     - Multiviews
     - Small display screens
     - UDC Converters
+- 1x Large Event OB Kit
+    - 2ME ATEM
+    - Videohub
+    - Converters
+    - Hyperdecks
+    - Encoder
+        > Desktop
+    - Graphics box
+    - VT Box
 ### Expanding our capacity
 ### Max
 ## Why us?
