@@ -14,10 +14,10 @@ I would recommend looking over the [Jargon](./Jargon.md) file if you need help u
  - [x] [Operating System](./Operating-System.md)
  - [x] [RAID](./RAID.md)
  - [x] [System Specs](./System-Specs.md)
- - [ ] Login System
+ - [ ] [Login System](./Login-System.md)
  - [ ] Auto Ingest
 
 # Diagram
 This is a quick diagram of what I hope to achieve with this
 
-![Diagram of new LA1TV Network layout in office](./Network-Diagram.png)
+![Diagram of new LA1TV Network layout in office](./Images/Network-Diagram.png)
