@@ -25,3 +25,9 @@
     - [ ] Audio kits
     - [ ] Website
     - [ ] Wowza
+- [ ] Repair and maintainence of kit
+    - [ ] Order baseplates
+    - [ ] Fix microphones
+    - [ ] Fix computers
+    - [ ] Get new spreaders for Tripods
+- [ ] Have a break
