@@ -15,7 +15,7 @@ I would recommend looking over the [Jargon](./Jargon.md) file if you need help u
  - [x] [RAID](./RAID.md)
  - [x] [System Specs](./System-Specs.md)
  - [ ] [Login System](./Login-System.md)
- - [ ] Auto Ingest
+ - [ ] [Auto Ingest](./Auto-Ingest.md)
 
 # Diagram
 This is a quick diagram of what I hope to achieve with this
