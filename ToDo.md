@@ -18,6 +18,7 @@
     - [ ] Audio kit
 - [ ] Complete File Store
     - [ ] Move editing to this
+    - [x] Write up thought process
 - [ ] Move edit PC's to university domain
     - [ ] Send Paul mac addresses
 - [ ] Transport equipment from my house to campus
