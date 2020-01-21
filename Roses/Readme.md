@@ -1,4 +1,11 @@
 # Roses ... The Plannening
+## Disclaimer
+This document is a planning document. It is very much so likely to change as plans become more solid. As they do become more solid, we will begin writing a new document / other documents with outlines of what is happening.
+
+We will attempt to get a timetable as soon as possible.
+
+This could also be a lot of text. Please be sure to read it though.
+
 ## Outline
 1. When is Roses?
 2. What is Roses?
@@ -6,6 +13,7 @@
 4. Streaming hardware
 5. Alumni plans
 6. Studio Shows
+7. Training
 
 ## 1. When is Roses
 Roses is in the First week of May. This covers the following days:
@@ -40,10 +48,15 @@ Studio shows will be organised at a future date. Any student media is welcome to
 One 2ME OB Kit will be moved / stopped from wherever it is placed and back to one of the sports halls when necessary. This stream will be in the sports hall with the least interesting sports in. This OB Kit should be small, compact and easy to move.
 
 ## 4. Streaming hardware
- 
+### LA1TV 
+
+### YSTV
+
 ## 5. Alumni plans
 
 ## 6. Studio Shows
+
+## 7. Training
 
 ## Footnotes
 Tom Wells will talk to us regarding the Roses website.
