@@ -37,6 +37,8 @@ Studio shows will be organised at a future date. Any student media is welcome to
 
 > Update with correct person later
 
+One 2ME OB Kit will be moved / stopped from wherever it is placed and back to one of the sports halls when necessary. This stream will be in the sports hall with the least interesting sports in. This OB Kit should be small, compact and easy to move.
+
 ## 4. Streaming hardware
  
 ## 5. Alumni plans
