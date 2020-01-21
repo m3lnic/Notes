@@ -33,7 +33,7 @@ Graphics will be present during roses and will be simple. However, multiple peop
 
 > Check who is available from YSTV to learn how to setup our graphics packages / test them on their encoder.
 
-Studio shows will be organised at a future date. Any student media is welcome to present / produce their own show. There will be no discrimination as to who is picked. If any other student media members would like to present, please drop me ([Mel](https://www.facebook.com/profile.php?id=100013276411331)) a message on facebook and I will forward you to the correct person.
+Studio shows will be organised at a future date. Any student media is welcome to present / produce their own show. If any student media members from either university would like to present but do not know of how to, please drop me ([Mel](https://www.facebook.com/profile.php?id=100013276411331)) a message on facebook and I will forward you to the correct person (Hopefully we can get you on screen somehow).
 
 > Update with correct person later
 
