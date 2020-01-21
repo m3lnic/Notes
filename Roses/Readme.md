@@ -5,6 +5,7 @@
 3. Streaming outline
 4. Streaming hardware
 5. Alumni plans
+6. Studio Shows
 
 ## 1. When is Roses
 Roses is in the First week of May. This covers the following days:
@@ -12,7 +13,7 @@ Roses is in the First week of May. This covers the following days:
 - Saturday 2nd May
 - Sunday 3rd May
 
-We will be targeting for York equipment to be at Lancaster from the Wednesday (29th April) before the first day. We will try and organise van rental / someone to rent and drive.
+We will be targeting for York equipment to be at Lancaster from the Wednesday (29th April) before the first day. We will organise alongside York to find the best method for getting it here.
 
 ## 2. What is Roses?
 Roses is an annual inter-university sports competition between the 2 Roses - Lancaster University and York University. It is a very busy week / weekend for student media as we typically try and stream out the sports. The 2 roses can be seen below:
@@ -35,6 +36,12 @@ Graphics will be present during roses and will be simple. However, multiple peop
 LA1TV will organise for studio show presentors. There will be no discrimination as to who is picked. If any other student media members would like to present, please drop me ([Mel](https://www.facebook.com/profile.php?id=100013276411331)) a message on facebook and I will forward you to the correct person.
 
 > Update with correct person later
+
+## 4. Streaming hardware
+ 
+## 5. Alumni plans
+
+## 6. Studio Shows
 
 ## Footnotes
 Tom Wells will talk to us regarding the Roses website.
