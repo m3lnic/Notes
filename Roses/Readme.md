@@ -14,6 +14,9 @@ This could also be a lot of text. Please be sure to read it though.
 5. Alumni plans
 6. Studio Shows
 7. Training
+8. BFM
+9. SCAN
+10. Meetings
 
 ## 1. When is Roses
 Roses is in the First week of May. This covers the following days:
@@ -89,13 +92,13 @@ Alumni are there to help and not run Roses. As such, we will give them tasks whe
 ## 7. Training
 > Leon said he would write something up.
 
-## BFM
+## 8. BFM
 > UNKNOWN
 
-## SCAN
+## 9. SCAN
 > UNKNOWN
 
-## Meetings
+## 10. Meetings
 This is where minutes for the meetings will be placed as well as possible audio recordings.
 > Please get permission for audio recording the meetings.
 - 29th January 2020 @ 1700 (05:00pm)
