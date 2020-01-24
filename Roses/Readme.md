@@ -48,15 +48,57 @@ Studio shows will be organised at a future date. Any student media is welcome to
 One 2ME OB Kit will be moved / stopped from wherever it is placed and back to one of the sports halls when necessary. This stream will be in the sports hall with the least interesting sports in. This OB Kit should be small, compact and easy to move.
 
 ## 4. Streaming hardware
+We shall be requesting that all OB encoders have OBS installed on. There will be no additional requirements (besides possibly a password requirement). 
+
+> If YSTV could set the password to their encoder to something like "Roses2019" so that if no York member is around, we can still fix technical issues. LA1TV will do something similar.
+
+We shall be requesting that only people with a good understanding of blackmagic equipment mess about with the internals of the OB kits. This goes for all societies. This is because they will be wired to work and nothing should need to be changed internally.
+
+> Wiring diagrams for LA1TV OB kits will be made at some point and inserted into this document.
+
 ### LA1TV 
+#### OB 1 / 2 (2x OB Kits)
+- 2 ME ATEM
+- VideoHub
+- Hyperdeck
+- Encoder
+- Graphics
+
+#### OB 3
+- Production Studio 4K
+- Encoder
+- Hyperdeck
+- Graphics
+
+### BFM
+> They have some streaming equipment that could be used. May need to get permission to use it. Need to fix VideU for them still.
 
 ### YSTV
+> Can YSTV let us know what kit they have so we can factor it into the plans.
 
 ## 5. Alumni plans
+Alumni are there to help and not run Roses. As such, we will give them tasks where there expertise is useful but at the same time, it does not withdraw from the experiences that other people can gain. As such some example tasks for alumni are:
+- Manning TX
+- Helping with setups
+- Fixing MAJOR technical issues
+- Teaching members stuff they know
 
 ## 6. Studio Shows
+> Discuss with people what we think the best way to sort this is.
 
 ## 7. Training
+> Leon said he would write something up.
+
+## BFM
+> UNKNOWN
+
+## SCAN
+> UNKNOWN
+
+## Meetings
+This is where minutes for the meetings will be placed as well as possible audio recordings.
+> Please get permission for audio recording the meetings.
+- 29th January 2020 @ 
 
 ## Footnotes
 Tom Wells will talk to us regarding the Roses website.
