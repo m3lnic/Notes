@@ -17,6 +17,7 @@ This could also be a lot of text. Please be sure to read it though.
 8. BFM
 9. SCAN
 10. Meetings
+11. Editing
 
 ## 1. When is Roses
 Roses is in the First week of May. This covers the following days:
@@ -102,6 +103,10 @@ Alumni are there to help and not run Roses. As such, we will give them tasks whe
 This is where minutes for the meetings will be placed as well as possible audio recordings.
 > Please get permission for audio recording the meetings.
 - 29th January 2020 @ 1800 (06:00pm)
+
+## 11. Editing
+During Roses, york are free to use premier if they so desire. Due to licensing restrictions, LA1TV will be editing with DaVinci Resolve this year. 
+>Could york look at using this software?
 
 ## Footnotes
 Tom Wells will talk to us regarding the Roses website.
