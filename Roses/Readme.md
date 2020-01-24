@@ -98,7 +98,7 @@ Alumni are there to help and not run Roses. As such, we will give them tasks whe
 ## Meetings
 This is where minutes for the meetings will be placed as well as possible audio recordings.
 > Please get permission for audio recording the meetings.
-- 29th January 2020 @ 
+- 29th January 2020 @ 1700 (05:00pm)
 
 ## Footnotes
 Tom Wells will talk to us regarding the Roses website.
