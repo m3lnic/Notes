@@ -27,7 +27,7 @@ This bracket aims to fill in the places where our current equipment is failing a
 In this bracket we would be aiming to replace a majority of the equipment that we have without increasing the amount available to us. 
 
 --- Brief overview for now ---
-- 4x New OB Kits
+- 3x New OB Kits (~£2000 each)
     - ATEM Mini
         > Small, portable and easy to use
     - New Encoders
@@ -36,15 +36,26 @@ In this bracket we would be aiming to replace a majority of the equipment that w
     - Multiviews
     - Small display screens
     - UDC Converters
-- 1x Large Event OB Kit
-    - 2ME ATEM
-    - Videohub
-    - Converters
-    - Hyperdecks
+- 1x Large Event OB Kit / Studio
+    - ATEM Constellation £8000
+    - Hyperdeck Extreme
+        + extras £5400
+    - TV's 4K £200
     - Encoder
-        > Desktop
+        > Desktop £1200
     - Graphics box
+        - Cloud
     - VT Box
+        - ??? Look into
+- Studio Cameras
+    - 3x £1200
+    - Camera Control £2400
+    - 3x Lenses (~£800)
+- Sound
+    - Behringer X32 (£1600) x2
+    - AVX Combo set (£900) x4
+- Production
+- Cabling £15k
 ### Expanding our capacity
 ### Max
 ## Why us?

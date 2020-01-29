@@ -1,0 +1,11 @@
+# Video Database Proposal
+Table columns : data types:
+- ID : INT
+- NAME : VARCHAR(256)
+- DESCRIPTION : VARCHAR(4096)
+- LENGTH : INT
+- PATH : VARCHAR(512)
+- FILENAME : VARCHAR(64)
+- UPLOAD-DATE : TIMESTAMP
+- TRANSCODED : BIT (True / False)
+- URL64BIT : VARCHAR(8)
