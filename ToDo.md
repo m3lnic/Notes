@@ -1,0 +1,36 @@
+# My ToDo List
+- [ ] Rebuild Wowza
+    - [ ] Upgrade to Server 2016 before the VM gets pulled by ISS
+    - [ ] Improve usability
+    - [ ] Fix minor bugs
+    - [ ] Use some of the modern features that have been made accessible to us with the updates
+- [ ] Work on website
+    - [ ] New Frontend
+    - [ ] New API
+    > Some people reading this may say that the website is perfectly fine. Coming at it from my side of things. The front end is outdated. The API usage feels clunky and overly complicated. We need something that is written modularly that is quick to fix, or take down individual components that break. Something continuously maintainable that doesn't rely on in depth knowledge of PHP or Complex frameworks. Something that can provide LA1 the front image and face lift that it deserves. This is me speaking without constraint.     
+- [ ] Fix broken computers
+    > Use the computers that we got from Josh
+- [ ] Create Documentation and hand over shit
+    - [ ] Control Room
+    - [ ] OB Kits
+    - [ ] VM's
+    - [ ] Office space
+    - [ ] Audio kit
+- [ ] Complete File Store
+    - [ ] Move editing to this
+    - [x] Write up thought process
+- [ ] Move edit PC's to university domain
+    - [ ] Send Paul mac addresses
+- [ ] Transport equipment from my house to campus
+- [ ] Teach people
+    - [ ] Book out a room for weekend
+    - [ ] OB Kits
+    - [ ] Audio kits
+    - [ ] Website
+    - [ ] Wowza
+- [ ] Repair and maintainence of kit
+    - [ ] Order baseplates
+    - [ ] Fix microphones
+    - [ ] Fix computers
+    - [ ] Get new spreaders for Tripods
+- [ ] Have a break

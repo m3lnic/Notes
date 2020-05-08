@@ -13,11 +13,11 @@ I would recommend looking over the [Jargon](./Jargon.md) file if you need help u
 # Things to cover
  - [x] [Operating System](./Operating-System.md)
  - [x] [RAID](./RAID.md)
- - [ ] System Specs
- - [ ] Login System
- - [ ] Auto Ingest
+ - [x] [System Specs](./System-Specs.md)
+ - [ ] [Login System](./Login-System.md)
+ - [ ] [Auto Ingest](./Auto-Ingest.md)
 
 # Diagram
 This is a quick diagram of what I hope to achieve with this
 
-![Diagram of new LA1TV Network layout in office](./Network-Diagram.png)
+![Diagram of new LA1TV Network layout in office](./Images/Network-Diagram.png)
