@@ -1,3 +1,5 @@
+# NOTICE - ROSES 2020 HAS BEEN CANCELLED. THIS SERIES OF DOCUMENTS IS NOW OBSOLETE.
+
 # Roses ... The Plannening
 ## Disclaimer
 This document is a planning document. It is very much so likely to change as plans become more solid. As they do become more solid, we will begin writing a new document / other documents with outlines of what is happening.
